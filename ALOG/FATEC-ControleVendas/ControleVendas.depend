@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1782938419 source:c:\users\guilh\downloads\alog\trabalho4alog\funcoes.c
+
+1783003225 source:c:\users\guilh\downloads\alog\trabalho4alog\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DadosVendedor.h"
+
+1782937087 c:\users\guilh\downloads\alog\trabalho4alog\dadosvendedor.h
+
+1782938419 source:c:\users\guilh\downloads\alog\controlevendas\funcoes.c
+
